@@ -1,0 +1,37 @@
+.content {
+    margin-left: 200px;
+}
+
+.content .card {
+    margin-top: 15px;
+}
+
+.content .card .panel-0 {
+    height: 85px;
+    background-color: #009444;
+    color: #FFF;
+    border: 1px solid #009444;
+}
+
+.content .card .panel-0 button:hover {
+    color: #009444;
+}
+
+.content .panel-1 {
+    margin-top: -10px;
+}
+
+.content .card .col-10 .card-body {
+    height: 405px;
+}
+
+.content .card .card-body .header p {
+    font-size: 15px;
+    padding-left: 25px;
+}
+
+.content .card .card-body .header button {
+    height: 40px;
+}
+
+
